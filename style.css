@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(126, 1, 243);
+    font-family: sans-serif;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+
+}
+button{
+    background-color: rgb(3, 96, 9);
+    border-color: rgb(56, 31, 79);
+    border-radius: 20%;
+}
+
+
+#fortune{
+    color: green;
+    opacity: 0;
+    transition: opacity 0.8s ease;
+}
+#fortune.visible{
+    opacity: 1;
+}
+
+
+
+@keyframes shake {
+    0%, 100% {transform: rotate(0deg);} /*left*/
+    25% {transform: rotate(-12deg);}
+    75% {transform: rotate(12deg);}
+    
+}
+.shaking{
+    animation: shake 0.4 ease;
+}

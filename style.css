@@ -36,3 +36,8 @@ button{
 .shaking{
     animation: shake 0.4 ease;
 }
+
+img {
+    width: 400px;
+    height: auto;
+}

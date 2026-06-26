@@ -1,20 +1,20 @@
 const fortunes_array = [
 
-    "Great things are coming your way!",
+    "The world around you continues, cant stop it but oh well",
 
-    "Today is your lucky day.",
+    "Life is a dream, wake up by now",
 
-    "A surprise awaits you soon.",
+    "A surprise awaits you soon, hope you like bugs",
 
-    "Be bold. Take the leap.",
+    "Be bold. Take the leap to abstraction",
 
-    "Your hard work will pay off.",
+    "Your hard work ain't gonna turn out well",
 
-    "Adventure is just around the corner.",
+    "Adventure is just around the corner, maybe its the haunted mansion",
 
-    "Good things come to those who wait.",
+    "Good things come to those who wait, but you should probably do something",
 
-    "Believe in yourself and magic happens.",
+    "Believe in yourself, but not too much",
 
 ];
 
